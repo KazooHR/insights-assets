@@ -1,0 +1,5 @@
+Hi Lisa,
+
+Your files are located in the `./GoodData` folder. Let me know if you have any questions, otherwise you should be able to copy the link URL directly and paste it inside GoodData.
+
+Let me know if you have any issues.
